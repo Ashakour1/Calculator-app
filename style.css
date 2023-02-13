@@ -56,19 +56,11 @@ form input.operator{
     
 
 }
-.footer{
-    background-color: #0e70b6;
-    color: white;
-   
 
-
-}
 @media screen and (max-width : 600px) {
     .calculator form input{
         width: 55px;
         
     }
-    .footer{
-        height: 30px;
-    }
+   
 }
